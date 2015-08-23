@@ -33,7 +33,7 @@ jekyll-archives:
 # Disqus comments
 disqus_shortname: floatgeeks
 
-Google analytics
+#Google analytics
 ga_tracking_id: "UA-66614362-1"
 
 # Category descriptions (for archive pages)

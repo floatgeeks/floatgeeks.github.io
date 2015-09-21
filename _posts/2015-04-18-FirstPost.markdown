@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "First Post"
-date:   2015-08-18 08:43:59
+date:   2015-09-20 08:43:59
 author: Connor Knabe
-categories: Dummy
+categories: Podcasts
 ---
 
 First post. Welcome to FloatGeeks!

@@ -188,26 +188,26 @@ social:
     podcastSite: http://www.floatgeeks.io
 
     # The cover image for the podcast, will show in search results in iTunes
-    podcastCoverImg: http://wwww.YourSite.com/imageSize1400x1400-min.jpg
+    podcastCoverImg: floatgeeks.io/images/FloatGeeks.jpg
 
     # The name of your podcast
-    podcastTitle: My Podcast Title
+    podcastTitle: Float Geeks
 
     # About You. For iTunes admin. This information is not displayed on the iTunes Store.
-    podcastOwner: COnnor Knabe
-    podcastEmail: your@email.com
+    podcastOwner: Connor Knabe
+    podcastEmail: floatgeeks@gmail.com
 
     # See https://www.apple.com/itunes/podcasts/specs.html near the bottom for valid categories
-    category: Education
-    subCategory: Higher Education
+    category: Health
+    subCategory: Alternative Health
 
     # is it too dangerous for the impressionable kiddos?
     podcastIsExplicit: "no"
 
 
-    podcastAuthor: Org, brand or individual
-    podcastDescription: Verbose description of the podcast.
-    podcastSubtitle: Short description of the podcast - 255 character max.
+    podcastAuthor: The Float Geeks
+    podcastDescription: The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.
+    podcastSubtitle: Float Geeks a podcast about everyting related to the float industry.
 
 
 

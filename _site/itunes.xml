@@ -3,27 +3,44 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
   <channel>
-    <title></title>
-    <link></link>
+    <title>Float Geeks</title>
+    <link>http://www.floatgeeks.io</link>
     <language>en-us</language>
-    <copyright>&#x2117; &amp; &#xA9; ,  </copyright>
-    <itunes:subtitle></itunes:subtitle>
-    <itunes:author></itunes:author>
-    <itunes:summary></itunes:summary>
-    <description></description>
+    <copyright>&#x2117; &amp; &#xA9; , Connor Knabe </copyright>
+    <itunes:subtitle>Float Geeks a podcast about everyting related to the float industry.</itunes:subtitle>
+    <itunes:author>The Float Geeks</itunes:author>
+    <itunes:summary>The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.</itunes:summary>
+    <description>The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.</description>
 
     <itunes:owner>
-      <itunes:name></itunes:name>
-      <itunes:email></itunes:email>
+      <itunes:name>Connor Knabe</itunes:name>
+      <itunes:email>floatgeeks@gmail.com</itunes:email>
     </itunes:owner>``
 
-    <itunes:image href="" />
+    <itunes:image href="floatgeeks.io/images/FloatGeeks.jpg" />
 
-    <itunes:category text="">
-      <itunes:category text=""/>
+    <itunes:category text="Health">
+      <itunes:category text="Alternative Health"/>
     </itunes:category>
 
-    <itunes:explicit></itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>Lets talk about the Zen Float Tent</title>
+      <itunes:subtitle>Chatting about Zen Float Tent</itunes:subtitle>
+      <itunes:author>Float Geeks</itunes:author>
+      <itunes:summary>A podcast all about floating!</itunes:summary>
+      <itunes:image href="http://www.floatgeeks.io/images/FloatGeeks.jpg" />
+
+      <enclosure url="https://smiil.es/float/FloatGeeks_001_Final.mp3" length="253310444" type="audio/mp3" />
+
+      <guid>1</guid>
+
+      <pubDate>Friday, 30 Oct 2015 22:00:00 GMT</pubDate>
+
+      <itunes:duration>424.0</itunes:duration>
+
+    </item>
     
   </channel>
 </rss>

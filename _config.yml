@@ -165,50 +165,41 @@ social:
 
 
 
-    # Podcast General Settings
-    # ------------------------------------------------------------------------
+# Podcast General Settings
+# ------------------------------------------------------------------------
 
-    # The homepage of your podcast
-    podcastSite: http://www.floatgeeks.io
+# The homepage of your podcast
+podcastSite: http://www.floatgeeks.io
 
-    # The cover image for the podcast, will show in search results in iTunes
-    podcastCoverImg: floatgeeks.io/images/FloatGeeks.jpg
+# The cover image for the podcast, will show in search results in iTunes
+podcastCoverImg: floatgeeks.io/images/FloatGeeks.jpg
 
-    # The name of your podcast
-    podcastTitle: Float Geeks
+# The name of your podcast
+podcastTitle: Float Geeks
 
-    # About You. For iTunes admin. This information is not displayed on the iTunes Store.
-    podcastOwner: Connor Knabe
-    podcastEmail: floatgeeks@gmail.com
+# About You. For iTunes admin. This information is not displayed on the iTunes Store.
+podcastOwner: Connor Knabe
+podcastEmail: floatgeeks@gmail.com
 
-    # See https://www.apple.com/itunes/podcasts/specs.html near the bottom for valid categories
-    category: Health
-    subCategory: Alternative Health
+# See https://www.apple.com/itunes/podcasts/specs.html near the bottom for valid categories
+category: Health
+subCategory: Alternative Health
 
-    # is it too dangerous for the impressionable kiddos?
-    podcastIsExplicit: "no"
-
-
-    podcastAuthor: The Float Geeks
-    podcastDescription: The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.
-    podcastSubtitle: Float Geeks a podcast about everyting related to the float industry.
+# is it too dangerous for the impressionable kiddos?
+podcastIsExplicit: "no"
 
 
-
-    #                          ###
-
-
-
-    # Don't edit below this line unless you know what you are doing.
-    # ------------------------------------------------------------------------
+podcastAuthor: The Float Geeks
+podcastDescription: The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.
+podcastSubtitle: Float Geeks a podcast about everyting related to the float industry.
 
 
-    # Create a Jekyll collection to handle the episodes
-    collections:
-    - episodes
+# Create a Jekyll collection to handle the episodes
+collections:
+- episodes
 
-    # Identify a place to output the generated files
-    destination: _upload-this
+# Identify a place to output the generated files
+destination: _upload-this
 
-    # Keep the readme out of the output folder
-    exclude: ['readme.md']
+# Keep the readme out of the output folder
+exclude: ['readme.md']

@@ -125,7 +125,7 @@
 <br />
 <a href="http://floatconference.com/">http://floatconference.com/</a></p>
 
-<audio controls="">
+<audio controls="" id="001">
   <source src="https://smiil.es/float/FloatGeeks_001_Final.mp3" type="audio/mpeg" />
 </audio>
 
@@ -222,7 +222,7 @@
     <h3 class="footer-heading">Float Geeks</h3>
 
     <div class="site-navigation">
-    	
+
     	<p><strong>Site Map</strong></p>
       <ul class="pages">
         
@@ -344,6 +344,8 @@ $(document).ready(function() {
 });
 
 </script>
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+
 
 
 <!-- Google Analytics -->
@@ -357,6 +359,16 @@ $(document).ready(function() {
   	'page': '/episodes/2015/09/20/first-episode.html',
   	'title': 'First Episode'
   });
+  $(document).ready(function() {
+      $("#001").click(function() {
+          console.log("PLAY");
+      });
+
+      $('#001').on('click', function(){
+          console.log("PLAY");
+        });
+  });
+
 </script>
 
 

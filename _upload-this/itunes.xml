@@ -3,40 +3,40 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
   <channel>
-    <title>My Podcast Title</title>
-    <link>http://www.travisneilson.com</link>
+    <title>Float Geeks</title>
+    <link>http://www.floatgeeks.io</link>
     <language>en-us</language>
-    <copyright>&#x2117; &amp; &#xA9; , YourName </copyright>
-    <itunes:subtitle>Short description of the podcast - 255 character max.</itunes:subtitle>
-    <itunes:author>Org, brand or individual</itunes:author>
-    <itunes:summary>Verbose description of the podcast.</itunes:summary>
-    <description>Verbose description of the podcast.</description>
+    <copyright>&#x2117; &amp; &#xA9; , Connor Knabe </copyright>
+    <itunes:subtitle>Float Geeks a podcast about everyting related to the float industry.</itunes:subtitle>
+    <itunes:author>The Float Geeks</itunes:author>
+    <itunes:summary>The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.</itunes:summary>
+    <description>The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.</description>
 
     <itunes:owner>
-      <itunes:name>YourName</itunes:name>
-      <itunes:email>your@email.com</itunes:email>
+      <itunes:name>Connor Knabe</itunes:name>
+      <itunes:email>floatgeeks@gmail.com</itunes:email>
     </itunes:owner>``
 
-    <itunes:image href="http://wwww.YourSite.com/imageSize1400x1400-min.jpg" />
+    <itunes:image href="floatgeeks.io/images/FloatGeeks.jpg" />
 
-    <itunes:category text="Education">
-      <itunes:category text="Higher Education"/>
+    <itunes:category text="Health">
+      <itunes:category text="Alternative Health"/>
     </itunes:category>
 
     <itunes:explicit>no</itunes:explicit>
     
     <item>
-      <title>Hello World!</title>
-      <itunes:subtitle>My first podcast episode</itunes:subtitle>
-      <itunes:author>John Doe</itunes:author>
-      <itunes:summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</itunes:summary>
-      <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg" />
+      <title>Lets talk about the Zen Float Tent</title>
+      <itunes:subtitle>Chatting about Zen Float Tent</itunes:subtitle>
+      <itunes:author>Float Geeks</itunes:author>
+      <itunes:summary>A podcast all about floating!</itunes:summary>
+      <itunes:image href="http://www.floatgeeks.io/images/FloatGeeks.jpg" />
 
-      <enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode3.m4a" length="8727310" type="audio/mpeg" />
+      <enclosure url="https://smiil.es/float/FloatGeeks_001_Final.mp3" length="253310444" type="audio/mp3" />
 
       <guid>1</guid>
 
-      <pubDate>Wed, 15 Jun 2014 19:00:00 GMT</pubDate>
+      <pubDate>Friday, 30 Oct 2015 22:00:00 GMT</pubDate>
 
       <itunes:duration>424.0</itunes:duration>
 

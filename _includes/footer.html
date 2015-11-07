@@ -5,7 +5,7 @@
     <h3 class="footer-heading">{{ site.title }}</h3>
 
     <div class="site-navigation">
-    	
+
     	<p><strong>Site Map</strong></p>
       <ul class="pages">
         {% for page in site.pages %}
@@ -77,6 +77,8 @@ $(document).ready(function() {
 });
 
 </script>
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+
 
 {% if site.ga_tracking_id %}
 <!-- Google Analytics -->
@@ -90,5 +92,15 @@ $(document).ready(function() {
   	'page': '{{ page.url }}',
   	'title': '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}'
   });
+  $(document).ready(function() {
+      $("#001").click(function() {
+          console.log("PLAY");
+      });
+
+      $('#001').on('click', function(){
+          console.log("PLAY");
+        });
+  });
+
 </script>
 {% endif %}

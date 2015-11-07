@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Centrarium</title>
+    <title>Float Geeks</title>
     <description>A simple yet classy theme for your Jekyll website or blog.
 </description>
-    <link>http://bencentra.com/centrarium//</link>
-    <atom:link href="http://bencentra.com/centrarium//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Aug 2015 22:25:16 -0500</pubDate>
-    <lastBuildDate>Sat, 22 Aug 2015 22:25:16 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://floatgeeks.io//</link>
+    <atom:link href="http://floatgeeks.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 07 Nov 2015 10:59:17 -0600</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2015 10:59:17 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
     
       <item>
-        <title>First Post</title>
-        <description>&lt;p&gt;First post. Welcome to FloatGeeks!&lt;/p&gt;
+        <title>First Episode</title>
+        <description>&lt;p&gt;First episode with John and Connor chatting about the Zen Float Tent, the float conference, and more!&lt;/p&gt;
+
+&lt;p&gt;Show notes:
+&lt;br /&gt;
+&lt;a href=&quot;http://www.zenfloatco.com/&quot;&gt;http://zenfloatco.com/&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://www.floathq.com/&quot;&gt;http://floathq.com/&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://floatconference.com/&quot;&gt;http://floatconference.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;audio controls=&quot;&quot;&gt;
+  &lt;source src=&quot;https://smiil.es/float/FloatGeeks_001_Final.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
 </description>
-        <pubDate>Tue, 18 Aug 2015 03:43:59 -0500</pubDate>
-        <link>http://bencentra.com/centrarium//dummy/2015/08/18/dummy.html</link>
-        <guid isPermaLink="true">http://bencentra.com/centrarium//dummy/2015/08/18/dummy.html</guid>
+        <pubDate>Sun, 20 Sep 2015 03:43:59 -0500</pubDate>
+        <link>http://floatgeeks.io//episodes/2015/09/20/first-episode.html</link>
+        <guid isPermaLink="true">http://floatgeeks.io//episodes/2015/09/20/first-episode.html</guid>
         
         
-        <category>dummy</category>
+        <category>Episodes</category>
         
       </item>
     

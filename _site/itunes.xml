@@ -24,7 +24,7 @@
     </itunes:category>
 
     <itunes:explicit>no</itunes:explicit>
-    
+
     <item>
       <title>Lets talk about the Zen Float Tent</title>
       <itunes:subtitle>Chatting about Zen Float Tent</itunes:subtitle>
@@ -32,7 +32,7 @@
       <itunes:summary>A podcast all about floating!</itunes:summary>
       <itunes:image href="http://www.floatgeeks.io/images/FloatGeeks.jpg" />
 
-      <enclosure url="https://smiil.es/float/FloatGeeks_001_Final.mp3" length="253310444" type="audio/mp3" />
+      <enclosure url="https://smiil.es/float/FloatGeeks_001_Final.mp3" length="253310444" type="audio/mpeg" />
 
       <guid>1</guid>
 
@@ -41,6 +41,6 @@
       <itunes:duration>424.0</itunes:duration>
 
     </item>
-    
+
   </channel>
 </rss>

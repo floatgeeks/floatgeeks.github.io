@@ -6,8 +6,8 @@
 </description>
     <link>http://floatgeeks.io//</link>
     <atom:link href="http://floatgeeks.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Nov 2015 08:03:10 -0600</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2015 08:03:10 -0600</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2015 08:06:24 -0600</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2015 08:06:24 -0600</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -25,7 +25,7 @@
 &lt;p&gt;Listen now!
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;iframe scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width:300px;height:180px;border:0;overflow:hidden;&quot; width=&quot;400&quot; height=&quot;180&quot; src=&quot;http://app.stitcher.com/splayer/f/77331/41173026?el=0&amp;amp;refid=stpr&quot;&gt;&lt;/iframe&gt;
+&lt;iframe scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width:100%;max-width:450px;height:180px;border:0;overflow:hidden;&quot; width=&quot;400&quot; height=&quot;180&quot; src=&quot;http://app.stitcher.com/splayer/f/77331/41173026?el=0&amp;amp;refid=stpr&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

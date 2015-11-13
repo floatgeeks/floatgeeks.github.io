@@ -444,10 +444,6 @@ pre code.hljs {
     .page-content .site-header-container .site-header .subtitle {
       font-style: italic;
       font-size: 1.2em; }
-  .page-content img {
-    display: block;
-    margin: auto;
-    width: 90%; }
   .page-content .post ul {
     margin-bottom: 1em; }
   .page-content .post .post-header-container .scrim {

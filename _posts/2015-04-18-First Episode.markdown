@@ -22,6 +22,4 @@ Mini
 <iframe scrolling="no" frameborder="0" style="width:400px;height:180px;border:0;overflow:hidden;" width="400" height="180" src="http://app.stitcher.com/splayer/f/77331/41173026?el=0&refid=stpr"></iframe>
 
 
-<audio controls class="001">
-  <source src="http://smiil.es/float/FloatGeeks001Final.mp3" type="audio/mpeg">
 </audio>

@@ -172,7 +172,7 @@ social:
 podcastSite: http://www.floatgeeks.io
 
 # The cover image for the podcast, will show in search results in iTunes
-podcastCoverImg: floatgeeks.io/images/FloatGeeks.jpg
+podcastCoverImg: http://www.floatgeeks.io/images/FloatGeeks_logo.jpg
 
 # The name of your podcast
 podcastTitle: Float Geeks

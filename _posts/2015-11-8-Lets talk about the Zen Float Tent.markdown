@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Episode"
+title:  "Lets talk about the Zen Float Tent 001"
 date:   2015-11-8 08:43:59
 author: Connor Knabe
 categories: Episodes

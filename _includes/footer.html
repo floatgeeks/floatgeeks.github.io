@@ -92,20 +92,7 @@ $(document).ready(function() {
   	'page': '{{ page.url }}',
   	'title': '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}'
   });
-  $(document).ready(function() {
 
-      $('.001').click(function() {
-          if (this.paused == false) {
-              this.pause();
-              alert('music paused');
-          } else {
-              this.play();
-              alert('music playing');
-          }
-      });
-
-
-  });
 
 </script>
 {% endif %}

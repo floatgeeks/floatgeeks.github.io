@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+  <channel>
+    <title>Float Geeks</title>
+    <link>http://www.floatgeeks.io</link>
+    <language>en-us</language>
+    <copyright>&#x2117; &amp; &#xA9; , Connor Knabe </copyright>
+    <itunes:subtitle>Float Geeks a podcast about everyting related to the float industry.</itunes:subtitle>
+    <itunes:author>The Float Geeks</itunes:author>
+    <itunes:summary>The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.</itunes:summary>
+    <description>The Float Geeks podcast dives deep into the float tank industry.  We talk about how to setup a float tank, customizing the filtration system, what happens in the tank, research about the health benefits of the tank, and much more.</description>
+
+    <itunes:owner>
+      <itunes:name>Connor Knabe</itunes:name>
+      <itunes:email>floatgeeks@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://www.floatgeeks.io/images/FloatGeeks_logo.jpg" />
+
+    <itunes:category text="Health">
+      <itunes:category text="Alternative Health"/>
+    </itunes:category>
+
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>Lets talk about the Zen Float Tent</title>
+      <itunes:subtitle>Chatting about Zen Float Tent</itunes:subtitle>
+      <itunes:author>Float Geeks</itunes:author>
+      <itunes:summary>A podcast all about floating!</itunes:summary>
+      <itunes:image href="http://www.floatgeeks.io/images/FloatGeeks_logo.jpg" />
+
+      <enclosure url="http://smiil.es/float/FloatGeeks001Final.mp3" length="34467465" type="audio/mpeg" />
+
+      <guid>http://www.floatgeeks.io/episodes/2015/09/20/First%20Episode.html</guid>
+
+      <pubDate>Sun, 8 Nov 2015 9:45:00 GMT</pubDate>
+
+      <itunes:duration>1436.0</itunes:duration>
+
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Episode"
-date:   2015-09-20 08:43:59
+date:   2015-11-8 08:43:59
 author: Connor Knabe
 categories: Episodes
 ---
@@ -20,5 +20,5 @@ Show notes:
 
 
 <audio controls id="001">
-  <source src="https://smiil.es/float/FloatGeeks_001_Final.mp3" type="audio/mpeg">
+  <source src="http://smiil.es/float/FloatGeeks001Final.mp3" type="audio/mpeg">
 </audio>

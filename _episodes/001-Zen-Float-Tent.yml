@@ -23,7 +23,7 @@ pubDate: Sun, 8 Nov 2015 9:45:00 GMT
 
 
 # This is your podcast episode file
-enclosureUrl: https://smiil.es/float/FloatGeeks_001_Final.mp3
+enclosureUrl: https://smiil.es/float/FloatGeeks001Final.mp3
 
 # The length attribute is the file size in bytes. Find this information in the properties of your podcast file (on a Mac, choose Get Info from the File menu and refer to the size row).
 enclosureLength: 34467465

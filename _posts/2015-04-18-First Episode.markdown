@@ -16,17 +16,6 @@ Show notes:
 <br>
 <a href="http://floatconference.com/">http://floatconference.com/</a>
 
-large
-
-<iframe scrolling="no" frameborder="0" style="width:500px;height:400px;border:0;overflow:hidden;" width="500" height="400" src="http://app.stitcher.com/splayer/f/77331/41173026?el=0&refid=stpr"></iframe>
-
-normal
-
-<iframe scrolling="no" frameborder="0" style="width:720px;height:180px;border:0;overflow:hidden;" width="720" height="180" src="http://app.stitcher.com/splayer/f/77331/41173026?el=0&refid=stpr"></iframe>
-
-small
-<iframe scrolling="no" frameborder="0" style="width:500px;height:180px;border:0;overflow:hidden;" width="500" height="180" src="http://app.stitcher.com/splayer/f/77331/41173026?el=0&refid=stpr"></iframe>
-
 
 Mini
 <iframe scrolling="no" frameborder="0" style="width:400px;height:180px;border:0;overflow:hidden;" width="400" height="180" src="http://app.stitcher.com/splayer/f/77331/41173026?el=0&refid=stpr"></iframe>

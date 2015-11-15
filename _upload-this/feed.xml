@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Float Geeks</title>
-    <description>A simple yet classy theme for your Jekyll website or blog.
-</description>
+    <description></description>
     <link>http://floatgeeks.io//</link>
     <atom:link href="http://floatgeeks.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Nov 2015 07:52:51 -0600</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2015 07:52:51 -0600</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2015 07:54:45 -0600</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2015 07:54:45 -0600</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>

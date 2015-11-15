@@ -9,7 +9,7 @@ subtitle: "A podcast all about floating!"
 email: floatgeeks@gmail.com
 name: Float Geeks
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://floatgeeks.io" # the base hostname & protocol for your site
 cover: "images/FloatGeeks.jpg"

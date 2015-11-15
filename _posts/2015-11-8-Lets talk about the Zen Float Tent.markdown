@@ -27,3 +27,5 @@ Listen now!
 <br>
 
 <a href="http://www.stitcher.com/s?fid=77331&refid=stpr"><img src="http://cloudfront.assets.stitcher.com/promo.assets/stitcher-banner-180x120.jpg" width="180" height="120" alt="Listen to Stitcher"></a>
+
+Subscribe on <a href="https://itunes.apple.com/us/podcast/float-geeks/id1058855632?mt=2">iTunes!</a>

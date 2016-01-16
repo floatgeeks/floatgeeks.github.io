@@ -7,7 +7,7 @@ author: Float Geeks
 subtitle: Chatting about Zen Float Tent
 
 # This is the verbose show description, up to 4,000 char long
-summary: A podcast all about floating!
+summary: We talk about the Zen Float Tent, the float conference, and how floating at home is becoming a big deal.
 
 # Episode art - Min size 1400x1400, max size 3000x3000
 image: http://www.floatgeeks.io/images/FloatGeeks_logo.jpg
@@ -15,7 +15,7 @@ image: http://www.floatgeeks.io/images/FloatGeeks_logo.jpg
 
 
 # Global Unique ID, can be the episode url, or just a unique number that doesn't change
-guid: http://www.floatgeeks.io/episodes/2015/09/20/First%20Episode.html
+guid: http://www.floatgeeks.io/episodes/2015/11/08/Lets%20talk%20about%20the%20Zen%20Float%20Tent.html
 
 # The date must be “day-of-week, day month year”. The time must be in 24 hour format (no AM or PM) and must include the time zone offset.
 pubDate: Sun, 8 Nov 2015 9:45:00 GMT

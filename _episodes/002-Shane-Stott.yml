@@ -1,0 +1,37 @@
+---
+
+title: Shane Stott
+author: Float Geeks
+
+# For best results, choose a subtitle that is only a few words long.
+subtitle: Chatting about the Zen Float Tent with Shane.
+
+# This is the verbose show description, up to 4,000 char long
+summary: We had so much fun talking about the Zen Float Tent in the first episode we decided to have Shane one of the founders of the Zen Float Tent on the podcast!
+
+# Episode art - Min size 1400x1400, max size 3000x3000
+image: http://www.floatgeeks.io/images/FloatGeeks_logo.jpg
+
+
+
+# Global Unique ID, can be the episode url, or just a unique number that doesn't change
+guid: http://www.floatgeeks.io/episodes/2015/09/20/First%20Episode.html
+
+# The date must be “day-of-week, day month year”. The time must be in 24 hour format (no AM or PM) and must include the time zone offset.
+pubDate: Sat, 16 Jan 2016 8:40:00 GMT
+
+
+
+# This is your podcast episode file
+enclosureUrl: http://smiil.es/float/FloatGeeks002Final.mp3
+
+# The length attribute is the file size in bytes. Find this information in the properties of your podcast file (on a Mac, choose Get Info from the File menu and refer to the size row).
+enclosureLength: 118917047
+
+# for available types, see https://www.apple.com/itunes/podcasts/specs.html
+enclosureType: audio/mpeg
+
+# HH:MM:SS,
+duration: 00:49:33
+
+---

@@ -16,7 +16,8 @@ Show notes:
 
 
 Disclaimer:
-When recording the episode we were not sponsoring the Zen Float Tent however I am now an affiliate for them on my blog http://floatgeek.com
+When recording the episode we were not sponsoring the Zen Float Tent however I am now an affiliate for them on Connor's blog <a href="http://www.floatgeek.com">http://floatgeek.com</a>
+
 
 
 Listen now!

@@ -24,7 +24,7 @@
     </itunes:category>
 
     <itunes:explicit>no</itunes:explicit>
-
+    
     <item>
       <title>001 - Lets talk about the Zen Float Tent</title>
       <itunes:subtitle>Chatting about Zen Float Tent</itunes:subtitle>
@@ -41,7 +41,7 @@
       <itunes:duration>00:23:56</itunes:duration>
 
     </item>
-
+    
     <item>
       <title>002 - Shane Stott</title>
       <itunes:subtitle>Chatting about the Zen Float Tent with Shane.</itunes:subtitle>
@@ -58,6 +58,6 @@
       <itunes:duration>00:49:33</itunes:duration>
 
     </item>
-
+    
   </channel>
 </rss>

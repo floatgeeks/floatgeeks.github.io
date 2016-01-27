@@ -26,24 +26,8 @@
     </itunes:category>
 
     <itunes:explicit>no</itunes:explicit>
-    
-    <item>
-      <title>001 - Lets talk about the Zen Float Tent</title>
-      <itunes:subtitle>Chatting about Zen Float Tent</itunes:subtitle>
-      <itunes:author>Float Geeks</itunes:author>
-      <itunes:summary>We talk about the Zen Float Tent, the float conference, and how floating at home is becoming a big deal.</itunes:summary>
-      <itunes:image href="http://www.floatgeeks.io/images/FloatGeeks_logo.jpg" />
 
-      <enclosure url="http://smiil.es/float/FloatGeeks001Final.mp3" length="34467465" type="audio/mpeg" />
 
-      <guid>http://www.floatgeeks.io/episodes/2015/11/08/Lets%20talk%20about%20the%20Zen%20Float%20Tent.html</guid>
-
-      <pubDate>Sun, 8 Nov 2015 09:45:00 +0000</pubDate>
-
-      <itunes:duration>00:23:56</itunes:duration>
-
-    </item>
-    
     <item>
       <title>002 - Shane Stott</title>
       <itunes:subtitle>Chatting about the Zen Float Tent with Shane.</itunes:subtitle>
@@ -60,6 +44,23 @@
       <itunes:duration>00:49:33</itunes:duration>
 
     </item>
-    
+
+    <item>
+      <title>001 - Lets talk about the Zen Float Tent</title>
+      <itunes:subtitle>Chatting about Zen Float Tent</itunes:subtitle>
+      <itunes:author>Float Geeks</itunes:author>
+      <itunes:summary>We talk about the Zen Float Tent, the float conference, and how floating at home is becoming a big deal.</itunes:summary>
+      <itunes:image href="http://www.floatgeeks.io/images/FloatGeeks_logo.jpg" />
+
+      <enclosure url="http://smiil.es/float/FloatGeeks001Final.mp3" length="34467465" type="audio/mpeg" />
+
+      <guid>http://www.floatgeeks.io/episodes/2015/11/08/Lets%20talk%20about%20the%20Zen%20Float%20Tent.html</guid>
+
+      <pubDate>Sun, 8 Nov 2015 09:45:00 +0000</pubDate>
+
+      <itunes:duration>00:23:56</itunes:duration>
+
+    </item>
+
   </channel>
 </rss>

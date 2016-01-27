@@ -24,7 +24,7 @@
     </itunes:category>
 
     <itunes:explicit>no</itunes:explicit>
-    
+
     <item>
       <title>001 - Lets talk about the Zen Float Tent</title>
       <itunes:subtitle>Chatting about Zen Float Tent</itunes:subtitle>
@@ -36,12 +36,12 @@
 
       <guid>http://www.floatgeeks.io/episodes/2015/11/08/Lets%20talk%20about%20the%20Zen%20Float%20Tent.html</guid>
 
-      <pubDate>Sun, 8 Nov 2015 9:45:00 GMT</pubDate>
+      <pubDate>Sun, 8 Nov 2015 09:45:00 +0000</pubDate>
 
       <itunes:duration>00:23:56</itunes:duration>
 
     </item>
-    
+
     <item>
       <title>002 - Shane Stott</title>
       <itunes:subtitle>Chatting about the Zen Float Tent with Shane.</itunes:subtitle>
@@ -53,11 +53,11 @@
 
       <guid>http://www.floatgeeks.io/episodes/2016/01/16/Shane_Stott.html</guid>
 
-      <pubDate>Sat, 16 Jan 2016 8:40:00 GMT</pubDate>
+      <pubDate>Sat, 16 Jan 2016 08:40:00 +0000</pubDate>
 
       <itunes:duration>00:49:33</itunes:duration>
 
     </item>
-    
+
   </channel>
 </rss>

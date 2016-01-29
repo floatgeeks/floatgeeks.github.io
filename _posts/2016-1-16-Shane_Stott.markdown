@@ -34,4 +34,4 @@ Subscribe on <a href="https://itunes.apple.com/us/podcast/float-geeks/id10588556
 
 
 Disclaimer:
-When recording the episode we were not sponsoring the Zen Float Tent however I am now an affiliate for them on Connor's blog <a href="http://www.floatgeek.com">http://floatgeek.com</a>
+When recording the episode we were not sponsoring the Zen Float Tent however Connor is now an affiliate for them on Connor's blog <a href="http://www.floatgeek.com">http://floatgeek.com</a>

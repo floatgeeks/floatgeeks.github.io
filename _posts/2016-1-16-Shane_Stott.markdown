@@ -16,10 +16,21 @@ Show notes:
 
 
 
-Listen on iTunes now (Stitcher coming soon)!
+http://www.stitcher.com/s?eid=42274196
+
+
+Listen now!
 <br>
 
-<a href="https://itunes.apple.com/us/podcast/float-geeks/id1058855632?mt=2">iTunes!</a>
+
+<iframe scrolling="no" frameborder="0" style="width:100%;max-width:450px;height:180px;border:0;overflow:hidden;" width="400" height="180" src="http://app.stitcher.com/splayer/f/77331/42274196?el=0&refid=stpr"></iframe>
+
+
+<br>
+
+<a href="http://www.stitcher.com/s?fid=77331&refid=stpr"><img src="http://cloudfront.assets.stitcher.com/promo.assets/stitcher-banner-180x120.jpg" width="180" height="120" alt="Listen to Stitcher"></a>
+
+Subscribe on <a href="https://itunes.apple.com/us/podcast/float-geeks/id1058855632?mt=2">iTunes!</a>
 
 
 Disclaimer:

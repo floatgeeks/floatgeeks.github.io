@@ -16,7 +16,6 @@ Show notes:
 
 
 
-http://www.stitcher.com/s?eid=42274196
 
 
 Listen now!

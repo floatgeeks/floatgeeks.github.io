@@ -1,0 +1,36 @@
+---
+
+title: 003 - Chris Petrovics
+author: Float Geeks
+
+# For best results, choose a subtitle that is only a few words long.
+subtitle: Chatting about the Pro Float Cabin with Chris Petrovics.
+
+# This is the verbose show description, up to 4,000 char long
+summary: Chris is a co-owner of Pro Float Inc, a tank manufacturing company, which produces float cabins.  They focus on the pure float experience working at having the perfect floating environment. This episode dives into their business and how they are providing that pure float experience.
+
+# Episode art - Min size 1400x1400, max size 3000x3000
+image: http://www.floatgeeks.io/images/FloatGeeks_logo.jpg
+
+
+# Global Unique ID, can be the episode url, or just a unique number that doesn't change
+guid: http://www.floatgeeks.io/episodes/2016/06/1/Chris_Petrovics.html
+
+# The date must be “day-of-week, day month year”. The time must be in 24 hour format (no AM or PM) and must include the time zone offset.
+pubDate: Wed, 1 June 2016 08:40:00 +0000
+
+
+
+# This is your podcast episode file
+enclosureUrl: http://smiil.es/float/FloatGeeks003Final.mp3
+
+# The length attribute is the file size in bytes. Find this information in the properties of your podcast file (on a Mac, choose Get Info from the File menu and refer to the size row).
+enclosureLength: 83017350
+
+# for available types, see https://www.apple.com/itunes/podcasts/specs.html
+enclosureType: audio/mpeg
+
+# HH:MM:SS,
+duration: "57:39"
+
+---
